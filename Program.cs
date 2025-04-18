@@ -27,5 +27,17 @@
         Console.WriteLine($"Distance between point 1 and point 2: {distance1}");
         Console.WriteLine($"Distance between point 2 and point 3: {distance2}");
         Console.WriteLine($"Distance between point 3 and point 1: {distance3}");
+
+        // check if points form a triagle with a right angle using Pythagorean theorem
+        if (Math.Abs(distance1 * distance1 + distance2 * distance2 - distance3 * distance3) < 0.0001 ||
+            Math.Abs(distance2 * distance2 + distance3 * distance3 - distance1 * distance1) < 0.0001 ||
+            Math.Abs(distance3 * distance3 + distance1 * distance1 - distance2 * distance2) < 0.0001)
+        {
+            Console.WriteLine("The points form a right triangle.");
+        }
+        else
+        {
+            Console.WriteLine("The points do not form a right triangle.");
+        }
     }
 }
