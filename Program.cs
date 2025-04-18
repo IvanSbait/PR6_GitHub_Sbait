@@ -53,5 +53,10 @@
         {
             Console.WriteLine("The points do not form a right triangle.");
         }
+
+        // Calculate the area of the triangle using Heron's formula
+        double s = (distance1 + distance2 + distance3) / 2;
+        double area = Math.Sqrt(s * (s - distance1) * (s - distance2) * (s - distance3));
+        Console.WriteLine($"Area of the triangle: {area}");
     }
 }
