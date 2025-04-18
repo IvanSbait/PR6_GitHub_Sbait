@@ -1,0 +1,14 @@
+C:\PR6_GitHub_Sbait\bin\Debug\net9.0\PR6_GitHub_Sbait.exe
+C:\PR6_GitHub_Sbait\bin\Debug\net9.0\PR6_GitHub_Sbait.deps.json
+C:\PR6_GitHub_Sbait\bin\Debug\net9.0\PR6_GitHub_Sbait.runtimeconfig.json
+C:\PR6_GitHub_Sbait\bin\Debug\net9.0\PR6_GitHub_Sbait.dll
+C:\PR6_GitHub_Sbait\bin\Debug\net9.0\PR6_GitHub_Sbait.pdb
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.AssemblyInfoInputs.cache
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.AssemblyInfo.cs
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.csproj.CoreCompileInputs.cache
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.dll
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\refint\PR6_GitHub_Sbait.dll
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.pdb
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\PR6_GitHub_Sbait.genruntimeconfig.cache
+C:\PR6_GitHub_Sbait\obj\Debug\net9.0\ref\PR6_GitHub_Sbait.dll
